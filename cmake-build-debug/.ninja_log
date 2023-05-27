@@ -1,0 +1,16 @@
+# ninja log v5
+7	129	7069062463458167	CMakeFiles/Graphs.dir/graph.c.obj	12ee2259d501888
+9	169	7069000893932730	CMakeFiles/Graphs.dir/stack.c.obj	e84bf7c39c8499b6
+2	98	7069062463133215	CMakeFiles/Graphs.dir/main.c.obj	3089e2ebfb58bb6f
+10	144	7068989942518844	CMakeFiles/Graphs.dir/queue.c.obj	2d756dcf7874d18b
+129	249	7069062464626371	Graphs.exe	1fadef4cd37de066
+13	127	7068945776909792	CMakeFiles/Graphs.dir/list.c.obj	f70e2101afd612eb
+2	73	7069062786637040	CMakeFiles/Graphs.dir/main.c.obj	3089e2ebfb58bb6f
+74	178	7069062787654330	Graphs.exe	1fadef4cd37de066
+2	81	7069063586154956	CMakeFiles/Graphs.dir/main.c.obj	3089e2ebfb58bb6f
+82	180	7069063587095569	Graphs.exe	1fadef4cd37de066
+3	89	7069063981627629	CMakeFiles/Graphs.dir/main.c.obj	3089e2ebfb58bb6f
+90	196	7069063982664219	Graphs.exe	1fadef4cd37de066
+5	84	7069067283645132	CMakeFiles/Graphs.dir/main.c.obj	3089e2ebfb58bb6f
+13	109	7069067283884499	CMakeFiles/Graphs.dir/graph.c.obj	12ee2259d501888
+109	207	7069067284842260	Graphs.exe	1fadef4cd37de066
